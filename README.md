@@ -1,7 +1,7 @@
 # Digital Address Book
 An address book is used to maintain the records of your acquaintances. Each entry in an
 address book usually consists of a few standard fields (for example: first name, last
-name, address, e-mail address, mobile phone number). This project is an electronic way of
+name, address, e-mail address, mobile phone number). This project is a digital way of
 storing your contacts. This program will enable the user to add, delete or search through his
 contacts without having to carry an address book all the time. Using this program is much easier
 and faster than using an address book.
